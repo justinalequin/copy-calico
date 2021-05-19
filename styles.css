@@ -1,0 +1,100 @@
+.header {
+padding: 5px;
+    background-color: #073F63;
+    font-size: large;
+    color: white;
+    text-align: center;
+}
+
+#headerline2 {
+    font-size: small;
+}
+ .menubar {
+    
+     display: flex;
+    justify-content: space-between;
+     color: #0057B8;
+     font-weight: bold;
+ }
+ #menubarfirst {
+     display: flex;
+     justify-content: space-around;
+     width: 600px;
+     height: 50px;
+ }
+
+ #menubarsecond {
+ 
+    display: flex;
+    justify-content: space-around;
+    align-content: center;
+    width: 600px;
+    height: 50px;
+ }
+
+ #oceanlogo {
+  
+     padding: 10px;
+     margin-top: 5px;
+     margin-left: 60px;
+     height: 5%;
+     width: 5%;
+   
+
+ }
+
+ .imagebody {
+   
+     display: flex;
+     justify-content: center;
+     background-image: linear-gradient(to bottom right,#4698D1 ,#9CCFF0); 
+ }
+
+ #maskimage {
+     justify-content: center;
+
+ }
+
+ #imagetext {
+ 
+     color: white;
+     position:relative;
+       bottom: 400px;
+       left: 200px;
+       width: 20%;
+       font-size: xx-large;
+       display: flex;
+
+ }
+
+ #morebutton {
+    background-color: white;
+    border-radius: 30px;
+   padding: 10px;
+   padding-left: 30px;
+   padding-right: 30px;
+
+    position:relative;
+       bottom: 400px;
+       left: 170px;
+       margin-left: 30px;
+ }
+
+ #shopbutton {
+    background-color: white;
+    border-radius: 30px;
+    padding: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+
+
+    position:relative;
+       bottom: 400px;
+       left: 180px;
+       margin-left: 30px;
+ }
+ svg {
+
+    width: 20px;
+    fill: #0057b8
+ }
